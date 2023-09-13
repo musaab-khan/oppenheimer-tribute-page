@@ -1,0 +1,34 @@
+*{
+box-sizing: border-box;
+}
+body{
+    background-image: url(How-Oppenheimer-Created-a-CGI-Free-Atomic-Blast-1-scaled.jpg);
+    color: white;
+    background-size: cover;
+}
+main{
+    background-color: #9F5726;
+    margin: 0;
+    padding: 0%;
+    text-align: center;
+    margin: 20px auto;
+    padding: 20px;
+    width: 70%;
+}
+img {
+    display: block;
+}
+#image {
+    max-width: 100%;
+    height: auto;
+    margin: auto;
+}
+main ul{
+    width: 80%;
+    margin: auto;
+}
+main ul li{
+    list-style: none;
+    text-align: left;
+    margin: 10px 4px;
+}
